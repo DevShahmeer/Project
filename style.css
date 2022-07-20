@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Karla', sans-serif;
+}
+
+html {
+    background-color: hsl(218, 22%, 67%);
+}
+
+h1 {
+    font-size: 30px;
+    color: hsl(179, 62%, 43%);
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    color:hsl(71, 73%, 54%);
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+
+p.firsttext {
+    position: absolute;
+    top: 120px;
+    left: 30px;
+    color: lightslategray;
+    line-height: 25px;
+}
+
+div.first {
+    width: 650px;
+    height: 450px;
+    background-color: white;
+    position: relative;
+    margin: 0 auto;
+    margin-top: 15vh;
+    border-radius: 12px;
+}
+
+span.perfect {
+    display: block;
+}
+
+div.second {
+    height: 250px;
+    width:325px;
+    position: absolute;
+    background-color: hsl(179, 62%, 43%);
+    bottom: 0px;
+    left: 0px;
+    border-bottom-left-radius: 10px;
+}
+
+button {
+    margin: 0px 60px;
+    width: 200px;
+    position: absolute;
+    bottom: 10%;
+    padding: 10px;
+    border: none;
+    background-color: hsl(71, 73%, 54%);
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+h3 {
+    font-size: 18px;
+    margin-top: 40px;
+    margin-left: 30px;
+    color: white;
+}
+
+span.kasa {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: inline-block;
+    color: white;
+    font-weight: 700;
+    padding-right: 10px;
+}
+
+h4 {
+    color: lightslategray;
+    font-weight: lighter;
+}
+
+p.secondtext {
+    margin-top: 10px;
+    margin-left: 30px;
+    color: white;
+    font-weight: lighter;
+}
+
+div.third {
+    position: absolute;
+    height: 250px;
+    width: 325px;
+    right: 0%;
+    bottom: 0%;
+    background-color:hsl(179, 55%, 47%);
+    border-bottom-right-radius: 10px;
+}
+
+p.thirdtext {
+    color: white;
+    font-weight: 100;
+    line-height: 20px;
+    margin-left: 30px;
+    font-size: 15px;
+}
+
+h5 {
+    color: white;
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 40px;
+    padding-bottom:20px;
+}
+.one {
+    display: block;
+}
+
+.two {
+    display: block;
+}
+
+.three {
+    display: block;
+}
+
+.four {
+    display: block;
+}
+
+.five {
+    display: block;
+}
